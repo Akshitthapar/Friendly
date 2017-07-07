@@ -1,0 +1,124 @@
+.textbrand {
+  color: white !important;
+}
+
+#header {
+  background-color: #4267b2 !important;
+  border-color: #E7E7E7;
+  height: 35px;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: white;
+  height: 20px;
+}
+.boxed {
+  border: 1px solid green ;
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+#menu,#sidebar{
+  background-color: #e9ebee;
+}
+#main,
+#menu,
+#sidebar {
+  height: 555px;
+
+  overflow: auto;
+}
+#sch{
+  width: 400px;
+}
+
+#divi {
+  padding: 5px;
+  padding-top: 15px;
+}
+
+#dp {
+  width: 25px;
+  height: 25px;
+}
+
+#header ul .glyphicon {
+  font-size: 18px;
+}
+.pp{
+  width: 30px;
+  height:30px;
+}
+#header .pp {
+  width: 28px;
+  height: 28px;
+  padding: 0px;
+}
+
+#imgpad {
+  padding-right: -10px;
+}
+
+.list-heading {
+  padding: 20px 15px 0 15px;
+}
+
+.panel-body .glyphicon {
+  margin-left: 10px;
+  margin-right: 4px;
+}
+
+.text-post {
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+#main {
+  overflow: auto;
+}
+
+#main::-webkit-scrollbar {
+  display: none;
+}
+
+#search {
+  padding-left: -20px;
+  height: 34px;
+}
+
+.h {
+  padding-left: 5px;
+  margin-left:  -10px;
+  margin-right: -10px;
+}
+
+button {
+  margin-left: -7px;
+}
+
+.badge {
+  background: skyblue;
+}
+
+.badge-red {
+  background: red;
+}
+
+.comment {
+  margin: 0;
+}
+.paa{
+  padding: -20px;
+  margin-top: -20px;
+  margin-bottom: -50px;
+}
+.button{
+  background-color: #4CAF50;
+}
